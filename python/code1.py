@@ -46,5 +46,3 @@ list1 = linked_list([1,2,4])
 list2 = linked_list([1,3,4])
 res = sol.mergeTwoLists(list1,list2)
 print(res)
-
-
