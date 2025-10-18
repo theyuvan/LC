@@ -18,4 +18,4 @@ class Solution(object):
 sol = Solution()
 num = 38
 res = sol.addDigits(num)
-print(res)
+print(res)  
